@@ -111,5 +111,6 @@ void print_help(char mode) {
 }
 
 void print_header(char* username) {
-    printf("текущий аккаунт - %s\n\n", username);
+    printf("Текущий аккаунт - %s\n\n", username);
 }
+
