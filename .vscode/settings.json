@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "ctype.h": "c",
+        "stdio.h": "c",
+        "*.supports-builtin-modules": "c",
+        "structs.h": "c",
+        "print.h": "c",
+        "string.h": "c",
+        "utilites.h": "c"
+    }
+}
